@@ -7,6 +7,9 @@ all cait related resources will be uploaded on this respitory
  //****code starts here****//
 
 static String KnowledgeBase[][][] = {
+
+
+
 		{{"WHAT IS YOUR NAME"}, 
 			{"MY NAME IS CAIT.",
 			 "YOU CAN CALL ME CAIT.",
